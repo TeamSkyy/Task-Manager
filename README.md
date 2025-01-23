@@ -82,4 +82,4 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 ## Contact
 
 - Email: Zijie_Su@outlook.com
-- GitHub: https://github.com/TeamSkyy
+- GitHub: [Skyy](https://github.com/TeamSkyy)
