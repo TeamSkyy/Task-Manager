@@ -1,0 +1,32 @@
+﻿  LoginInterfaceFunction.cpp
+D:\Code\TaskManager\LoginInterface.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'LoginInterfaceFunction.cpp')
+  
+D:\Code\TaskManager\LoginInterface.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'LoginInterfaceFunction.cpp')
+  
+  main.cpp
+D:\Code\TaskManager\LoginInterface.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+D:\Code\TaskManager\LoginInterface.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+  TaskManagerFunctions.cpp
+D:\Code\TaskManager\LoginInterface.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TaskManagerFunctions.cpp')
+  
+D:\Code\TaskManager\LoginInterface.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TaskManagerFunctions.cpp')
+  
+D:\Code\TaskManager\TaskManagerFunctions.cpp(252,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Code\TaskManager\TaskManagerFunctions.cpp(264,3): warning C4102: 'std': unreferenced label
+  UserManagerFunctions.cpp
+D:\Code\TaskManager\LoginInterface.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'UserManagerFunctions.cpp')
+  
+D:\Code\TaskManager\LoginInterface.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'UserManagerFunctions.cpp')
+  
+  Generating Code...
+  TaskManager.vcxproj -> D:\Code\TaskManager\x64\Debug\TaskManager.exe

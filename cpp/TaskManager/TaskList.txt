@@ -1,0 +1,110 @@
+105    TID1001 "Task Plan 7"      "Test features for task 66"      20240410   Ongoing  4
+105    TID1005 "Task Write 31"    "Write documentation for task 94" 20240225   Undone   4
+111    TID1002 "Task Test 72"     "Test features for task 15"      20240101   Ongoing  4
+114    TID1001 "Task Test 98"     "Test features for task 75"      20240410   Ongoing  5
+110    TID1001 "Task Test 90"     "Fix bugs for task 82"           20240317   Undone   2
+112    TID1004 "Task Plan 37"     "Fix bugs for task 27"           20240401   Undone   1
+103    TID1001 "Task Test 55"     "Write documentation for task 47" 20240328   Undone   3
+105    TID1002 "Task Develop 55"  "Test features for task 78"      20240817   Ongoing  2
+106    TID1001 "Task Write 47"    "Fix bugs for task 54"           20240215   Undone   5
+120    TID1005 "Task Write 78"    "Test features for task 76"      20241203   Ongoing  4
+108    TID1001 "Task Write 35"    "Write documentation for task 91" 20240827   Done     2
+103    TID1004 "Task Write 53"    "Test features for task 65"      20240611   Ongoing  4
+114    TID1005 "Task Test 50"     "Test features for task 82"      20241111   Ongoing  3
+109    TID1004 "Task Develop 94"  "Write documentation for task 53" 20240530   Done     4
+118    TID1002 "Task Develop 68"  "Complete code review for task 48" 20241008   Done     3
+115    TID1003 "Task Review 27"   "Develop new functionality for task 15" 20240409   Done     3
+120    TID1003 "Task Write 55"    "Develop new functionality for task 5" 20241208   Ongoing  1
+108    TID1002 "Task Test 74"     "Develop new functionality for task 23" 20240710   Undone   1
+101    TID1004 "Task Test 36"     "Test features for task 52"      20240210   Undone   2
+120    TID1005 "Task Develop 34"  "Complete code review for task 88" 20241115   Done     3
+108    TID1004 "Task Review 15"   "Complete code review for task 3" 20240912   Done     4
+116    TID1003 "Task Review 47"   "Write documentation for task 42" 20240129   Undone   2
+105    TID1005 "Task Develop 71"  "Fix bugs for task 44"           20240124   Done     3
+108    TID1005 "Task Write 98"    "Develop new functionality for task 91" 20240318   Undone   5
+111    TID1002 "Task Review 100"  "Complete code review for task 47" 20240323   Undone   3
+102    TID1004 "Task Test 62"     "Complete code review for task 64" 20240115   Done     1
+118    TID1004 "Task Review 26"   "Develop new functionality for task 8" 20241017   Done     4
+108    TID1001 "Task Plan 70"     "Test features for task 57"      20240910   Undone   2
+111    TID1004 "Task Develop 94"  "Develop new functionality for task 66" 20241013   Ongoing  4
+113    TID1005 "Task Develop 91"  "Develop new functionality for task 88" 20240327   Ongoing  3
+113    TID1005 "Task Plan 40"     "Complete code review for task 71" 20240508   Done     1
+112    TID1003 "Task Test 37"     "Test features for task 88"      20240131   Ongoing  2
+102    TID1004 "Task Review 3"    "Develop new functionality for task 92" 20240508   Done     2
+103    TID1004 "Task Plan 9"      "Develop new functionality for task 3" 20240821   Undone   3
+112    TID1002 "Task Review 50"   "Write documentation for task 99" 20240629   Undone   5
+119    TID1005 "Task Test 1"      "Develop new functionality for task 46" 20240504   Done     1
+114    TID1002 "Task Write 39"    "Develop new functionality for task 52" 20240518   Undone   4
+119    TID1002 "Task Review 42"   "Write documentation for task 72" 20241221   Undone   3
+111    TID1005 "Task Review 69"   "Complete code review for task 14" 20240430   Undone   5
+118    TID1002 "Task Write 32"    "Fix bugs for task 48"           20240404   Done     3
+119    TID1004 "Task Plan 34"     "Develop new functionality for task 69" 20241220   Undone   3
+102    TID1004 "Task Develop 97"  "Fix bugs for task 5"            20240715   Ongoing  5
+105    TID1005 "Task Develop 73"  "Test features for task 9"       20240223   Ongoing  5
+106    TID1003 "Task Write 16"    "Test features for task 96"      20241002   Undone   3
+119    TID1004 "Task Plan 70"     "Write documentation for task 19" 20240306   Ongoing  1
+117    TID1002 "Task Test 22"     "Fix bugs for task 67"           20240409   Undone   3
+110    TID1001 "Task Review 74"   "Test features for task 8"      20240320   Undone   3
+111    TID1001 "Task Write 3"     "Fix bugs for task 81"           20240408   Ongoing  1
+103    TID1002 "Task Develop 72"  "Fix bugs for task 59"           20241106   Ongoing  4
+105    TID1001 "Task Test 34"     "Fix bugs for task 74"           20240501   Done     5
+121    TID1002 "Task Plan 51"     "Develop new functionality for task 89" 20240720   Undone   3
+122    TID1001 "Task Test 37"     "Fix bugs for task 56"           20240610   Ongoing  4
+123    TID1003 "Task Test 68"     "Write documentation for task 99" 20240123   Done     2
+124    TID1005 "Task Plan 99"     "Develop new functionality for task 90" 20240915   Undone   1
+125    TID1004 "Task Review 54"   "Test features for task 79"      20240728   Ongoing  4
+126    TID1003 "Task Test 72"     "Fix bugs for task 43"           20240411   Ongoing  3
+127    TID1001 "Task Develop 15"  "Develop new functionality for task 57" 20240928   Done     2
+128    TID1002 "Task Review 85"   "Write documentation for task 92" 20241201   Done     1
+129    TID1005 "Task Test 98"     "Test features for task 50"      20240222   Done     4
+130    TID1004 "Task Write 21"    "Develop new functionality for task 10" 20240805   Ongoing  3
+131    TID1002 "Task Plan 60"     "Test features for task 81"      20240330   Done     2
+132    TID1001 "Task Test 91"     "Write documentation for task 55" 20240725   Done     3
+133    TID1004 "Task Test 45"     "Develop new functionality for task 62" 20240830   Ongoing  1
+134    TID1003 "Task Review 31"   "Fix bugs for task 48"           20240522   Ongoing  2
+135    TID1005 "Task Test 77"     "Fix bugs for task 21"           20241020   Done     4
+136    TID1004 "Task Review 62"   "Test features for task 80"      20240502   Ongoing  3
+137    TID1001 "Task Plan 17"     "Fix bugs for task 39"           20240211   Undone   2
+138    TID1002 "Task Develop 52"  "Write documentation for task 93" 20241001   Undone   5
+139    TID1005 "Task Write 16"    "Test features for task 46"      20240630   Done     4
+140    TID1003 "Task Plan 77"     "Write documentation for task 67" 20240510   Ongoing  2
+141    TID1001 "Task Review 47"   "Develop new functionality for task 12" 20240301   Done     3
+142    TID1004 "Task Write 36"    "Fix bugs for task 24"           20240601   Ongoing  5
+143    TID1002 "Task Test 33"     "Develop new functionality for task 6" 20240819   Ongoing  4
+144    TID1001 "Task Develop 91"  "Write documentation for task 15" 20240905   Done     1
+145    TID1003 "Task Review 24"   "Test features for task 89"      20241211   Ongoing  5
+146    TID1005 "Task Review 23"   "Fix bugs for task 50"           20240317   Done     3
+147    TID1004 "Task Develop 42"  "Test features for task 69"      20241108   Ongoing  4
+148    TID1002 "Task Test 54"     "Fix bugs for task 28"           20240214   Undone   1
+149    TID1001 "Task Test 84"     "Write documentation for task 71" 20240705   Ongoing  4
+150    TID1005 "Task Review 51"   "Fix bugs for task 59"           20241030   Done     2
+121    TID1004 "Task Write 45"    "Write documentation for task 12" 20240909   Ongoing  2
+122    TID1005 "Task Plan 85"     "Test features for task 29"      20240711   Done     3
+123    TID1001 "Task Test 76"     "Fix bugs for task 75"           20240922   Ongoing  2
+124    TID1002 "Task Write 12"    "Test features for task 40"      20240625   Done     3
+125    TID1005 "Task Plan 54"     "Develop new functionality for task 57" 20241006   Undone   5
+126    TID1001 "Task Test 24"     "Write documentation for task 33" 20240718   Ongoing  1
+127    TID1003 "Task Plan 18"     "Fix bugs for task 78"           20240519   Ongoing  3
+128    TID1004 "Task Test 68"     "Write documentation for task 28" 20241121   Undone   2
+129    TID1002 "Task Write 74"    "Fix bugs for task 84"           20241212   Ongoing  4
+130    TID1001 "Task Review 32"   "Test features for task 79"      20240323   Done     1
+131    TID1005 "Task Develop 47"  "Write documentation for task 72" 20240406   Ongoing  4
+132    TID1004 "Task Test 29"     "Test features for task 59"      20241104   Done     1
+133    TID1002 "Task Plan 10"     "Develop new functionality for task 82" 20240205   Done     5
+134    TID1001 "Task Write 43"    "Fix bugs for task 68"           20240929   Undone   3
+135    TID1003 "Task Develop 90"  "Develop new functionality for task 36" 20241010   Done     4
+136    TID1005 "Task Plan 20"     "Test features for task 55"      20240608   Undone   1
+137    TID1004 "Task Write 33"    "Write documentation for task 94" 20240713   Ongoing  5
+138    TID1002 "Task Review 37"   "Fix bugs for task 53"           20240312   Done     2
+139    TID1001 "Task Plan 65"     "Test features for task 71"      20240523   Done     5
+140    TID1003 "Task Test 11"     "Fix bugs for task 79"           20240628   Ongoing  4
+141    TID1004 "Task Review 66"   "Write documentation for task 67" 20240208   Done     3
+142    TID1005 "Task Develop 44"  "Test features for task 38"      20241004   Ongoing  2
+143    TID1002 "Task Write 31"    "Fix bugs for task 95"           20240326   Ongoing  4
+144    TID1001 "Task Test 94"     "Test features for task 55"      20241215   Done     1
+145    TID1003 "Task Review 94"   "Write documentation for task 27" 20240911   Ongoing  5
+146    TID1005 "Task Test 79"     "Develop new functionality for task 52" 20240130   Done     2
+147    TID1004 "Task Review 84"   "Fix bugs for task 83"           20240425   Ongoing  3
+148    TID1002 "Task Plan 62"     "Develop new functionality for task 67" 20240514   Done     1
+149    TID1001 "Task Write 56"    "Write documentation for task 15" 20240901   Undone   3
+150    TID1005 "Task Test 10"     "Test features for task 93"      20240302   Ongoing  1

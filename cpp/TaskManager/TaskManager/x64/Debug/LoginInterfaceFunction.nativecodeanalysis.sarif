@@ -1,0 +1,75 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/code/taskmanager/logininterfacefunction.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "2683c8db452094e0498abe92e5045e9fa1025b02c2f5b7d107f3ed3a7adee4ae"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/code/taskmanager/logininterface.h"
+          },
+          "hashes": {
+            "sha-256": "aded521c45491d7b0fd2958873b8c4aea1e14507c7da5e9bf838bbb93886b313"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/code/taskmanager/usermanager.h"
+          },
+          "hashes": {
+            "sha-256": "1eebc786a171c6c7219eb33693ce7349ff5d92f1fd46e14847d31f5ac853707b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/code/taskmanager/user.h"
+          },
+          "hashes": {
+            "sha-256": "ddbb86dc7829bfe3ae3ec1f77af7b65ba488cf515b45dce3c13a8bc40090e125"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/code/taskmanager/taskmanager.h"
+          },
+          "hashes": {
+            "sha-256": "cb298a20b33acb72bd65011ff5898ef88c1bcb257c372909a11003734e6336e7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/code/taskmanager/task.h"
+          },
+          "hashes": {
+            "sha-256": "e2052ce5844dc957b77fca028e73e4e5a09fd2c4dc85c7eda2f9f661faf9b2ac"
+          }
+        }
+      ]
+    }
+  ]
+}

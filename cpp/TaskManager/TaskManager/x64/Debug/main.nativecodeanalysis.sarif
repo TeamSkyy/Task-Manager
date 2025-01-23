@@ -1,0 +1,111 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'TaskManager::currentUser' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///d:/code/taskmanager/main.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Code/TaskManager/TaskManager.h"
+                },
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TaskManager::{ctor}",
+                  "decoratedName": "??0TaskManager@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "TaskManager::currentUser"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/code/taskmanager/main.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "22455adb8de3f408c4871c564b34a98c0143851d4e2bc174d8151aa959f1f9d1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///D:/Code/TaskManager/TaskManager.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "cb298a20b33acb72bd65011ff5898ef88c1bcb257c372909a11003734e6336e7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/code/taskmanager/user.h"
+          },
+          "hashes": {
+            "sha-256": "ddbb86dc7829bfe3ae3ec1f77af7b65ba488cf515b45dce3c13a8bc40090e125"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/code/taskmanager/usermanager.h"
+          },
+          "hashes": {
+            "sha-256": "1eebc786a171c6c7219eb33693ce7349ff5d92f1fd46e14847d31f5ac853707b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/code/taskmanager/task.h"
+          },
+          "hashes": {
+            "sha-256": "e2052ce5844dc957b77fca028e73e4e5a09fd2c4dc85c7eda2f9f661faf9b2ac"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/code/taskmanager/logininterface.h"
+          },
+          "hashes": {
+            "sha-256": "aded521c45491d7b0fd2958873b8c4aea1e14507c7da5e9bf838bbb93886b313"
+          }
+        }
+      ]
+    }
+  ]
+}
